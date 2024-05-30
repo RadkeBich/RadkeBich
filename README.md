@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on цією роботою в клас румі підчас заліку
+- 🔭 I’m currently working on цією роботою в клас румі підчас заліку.
 - 🌱 I’m currently learning учусь в коледжі
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with с заліком по придмету "вступ"
